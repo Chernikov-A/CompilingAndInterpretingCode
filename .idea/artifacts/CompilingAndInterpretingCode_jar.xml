@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CompilingAndInterpretingCode:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CompilingAndInterpretingCode_jar</output-path>
+    <root id="archive" name="CompilingAndInterpretingCode.jar">
+      <element id="module-output" name="CompilingAndInterpretingCode" />
+    </root>
+  </artifact>
+</component>
